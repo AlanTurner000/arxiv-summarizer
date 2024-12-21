@@ -15,7 +15,6 @@ pymemcache
 whitenoise
 redis
 django-redis-cache
-django_heroku
 django-bmemcached
 dj-database-url
 tiktoken
